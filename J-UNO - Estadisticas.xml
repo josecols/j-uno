@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estadisticas>
+  <estadistica>
+    <nombre>Computador</nombre>
+    <apellido />
+    <nickname>computador</nickname>
+    <partidasJugadas>11</partidasJugadas>
+    <partidasGanadas>6</partidasGanadas>
+    <partidasPerdidas>4</partidasPerdidas>
+    <partidasAbandonadas>0</partidasAbandonadas>
+  </estadistica>
+  <estadistica>
+    <nombre>Invitado</nombre>
+    <apellido />
+    <nickname>invitado</nickname>
+    <partidasJugadas>11</partidasJugadas>
+    <partidasGanadas>4</partidasGanadas>
+    <partidasPerdidas>7</partidasPerdidas>
+    <partidasAbandonadas>1</partidasAbandonadas>
+  </estadistica>
+</estadisticas>

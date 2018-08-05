@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nombre>Janelly</nombre>
+    <apellido>Bello</apellido>
+    <email>jbello@hotmail.com</email>
+    <nickname>jbello</nickname>
+    <clave>1234</clave>
+    <avatar>/iconos/avatar.png</avatar>
+    <estado>activado</estado>
+  </usuario>
+</usuarios>
